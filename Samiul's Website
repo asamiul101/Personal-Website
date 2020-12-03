@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title> Ⓢ Samiul's Personal Site </title>
+</head>
+
+<body>
+  <img src="C:\Users\asami\OneDrive\Desktop\Web Development\HTML - Personal Site\Samiul Ahmed.png" alt="Samiul Ahmed's Profile Picture">
+  <h1>Samiul Ahmed</h1>
+  <p><em><strong>Student of City College of New York</strong></em></p>
+  <p>I am majoring in Computer Science. I am interested in Software Development, Data Analysis, Cybersecurity.</p>
+  <p><a href="Contacts.html">Contact Me</a></p>
+  <hr>
+  <p>
+    <strong><u>
+        <h3>EDUCATION</h3>
+      </u></strong>
+
+  <pre>City College of the City University of New York		Expected graduation in Dec, 2022			GPA: 3.8
+Bachelors of Science, Computer Science
+
+  <pr><strong><em>HONORS</em></strong>
+    - Dean's List 											        2019 - Present
+    - S Jay Levy Fellowship (Engaging and interviewing with several companies)				        2020 - Present
+    - President’s Award (Senior Award) (William Cullen Bryant High School)				        2018
+    - Principal Honors Roll (William Cullen Bryant High School)						        2015 - 2018
+  </pr>
+  <pr><strong><em>AFFILIATIONS</em></strong>
+    - Member of National Engineering Society (Tau beta Pi), CCNY			                	     08/20 - Present
+    - Member of Association of Computing Machinery (ACM), CCNY			          		        07/19 - Present
+    - Member of National Honors Society, William Cullen Bryant High School		           		05/16 - 05/20</pr>
+  </pre>
+
+
+  </p>
+  <hr>
+  <p>
+    <strong><u>
+        <h3>QUALIFICATIONS</h3>
+      </u></strong>
+
+  <pre>
+  <em><strong>Programming Languages:</strong></em> C++, Python, Assembly Language, VHDL, Dart.
+  <em><strong>Applications:</strong></em> Microsoft Word, Excel, and PowerPoint, Adobe Photoshop, Lightroom.
+  <em><strong>Language:</strong></em> English, Bengali.
+  </pre>
+  </p>
+  <hr>
+  <p>
+    <strong><u>
+        <h3>PROJECTS</h3>
+      </u></strong>
+  <pre>
+  <em><strong>CUNY HACKATHON 2019</strong></em> 				      Baruch College of the City University of New York
+    My team of 5 from CCNY built an application named “Seen Share”, where users can upload pictures of various locations and it can also execute that exact address and routes to go there by utilizing Google Places API. My responsibility was to connect Google Places API with our software via python so that it can easily execute the exact location and routes which I was able to achieve.
+
+  <em><strong><a href="https://github.com/samiularnob12/Game-of-Life/commit/0704e65e326da997729c0b9d21ee529910e371b8">GAME OF LIFE</a></strong></em>
+    I developed an application using C++ where the cells are in a square environment where it will die if it does not have 3 or 2 neighbour cells around it. However, there is in the empty spaces the cells will come to life if they have 3 neighbouring cells. So, the numbers of cells change over the generation where cells will die and come to live.
+
+  <em><strong><a href="https://github.com/samiularnob12/SpaceAttack/blob/main/Space%20Attack">DESIGN AND CODE OF SPACE INVADER GAME</a></strong></em>
+    I made a game using pygame where a user rides a spaceship and shoots down other enemy spaceships to get points.
+
+  </pre>
+  </p>
+  <hr>
+  <p>
+    <strong><u>
+        <h3>EXPERIENCE</h3>
+      </u></strong>
+
+  <pre>
+  <em><strong>Walgreens</strong></em>											              Queens, NY
+  <strong>Customer Service Associate</strong> 								           	      08/20 - Present
+</pre>
+  <ul>
+    <li>Provides customers with courteous, friendly, fast, and efficient service. </li>
+    <li>Managed inventory, and records. </li>
+    <li>Has working knowledge of store systems and store equipment. </li>
+  </ul>
+
+  </p>
+</body>
+
+</html>
